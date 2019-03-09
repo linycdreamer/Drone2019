@@ -1,0 +1,14 @@
+.\obj\pid.o: algorithm\pid.c
+.\obj\pid.o: algorithm\pid.h
+.\obj\pid.o: .\user\stm32f10x.h
+.\obj\pid.o: .\user\core_cm3.h
+.\obj\pid.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\pid.o: .\user\system_stm32f10x.h
+.\obj\pid.o: .\user\stm32f10x_conf.h
+.\obj\pid.o: .\FWlib\inc\stm32f10x_can.h
+.\obj\pid.o: .\user\stm32f10x.h
+.\obj\pid.o: .\FWlib\inc\stm32f10x_flash.h
+.\obj\pid.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\pid.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\pid.o: .\FWlib\inc\stm32f10x_usart.h
+.\obj\pid.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

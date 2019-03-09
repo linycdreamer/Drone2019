@@ -1,0 +1,15 @@
+.\obj\datascope_dp.o: device\DataScope_DP.C
+.\obj\datascope_dp.o: device\DataScope_DP.h
+.\obj\datascope_dp.o: .\Hardware\drv_usart.h
+.\obj\datascope_dp.o: .\user\stm32f10x.h
+.\obj\datascope_dp.o: .\user\core_cm3.h
+.\obj\datascope_dp.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\datascope_dp.o: .\user\system_stm32f10x.h
+.\obj\datascope_dp.o: .\user\stm32f10x_conf.h
+.\obj\datascope_dp.o: .\FWlib\inc\stm32f10x_can.h
+.\obj\datascope_dp.o: .\user\stm32f10x.h
+.\obj\datascope_dp.o: .\FWlib\inc\stm32f10x_flash.h
+.\obj\datascope_dp.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\datascope_dp.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\datascope_dp.o: .\FWlib\inc\stm32f10x_usart.h
+.\obj\datascope_dp.o: .\FWlib\inc\misc.h

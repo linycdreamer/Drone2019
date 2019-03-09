@@ -1,0 +1,13 @@
+.\obj\dbus.o: device\dbus.c
+.\obj\dbus.o: device\dbus.h
+.\obj\dbus.o: .\user\stm32f10x.h
+.\obj\dbus.o: .\user\core_cm3.h
+.\obj\dbus.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\dbus.o: .\user\system_stm32f10x.h
+.\obj\dbus.o: .\user\stm32f10x_conf.h
+.\obj\dbus.o: .\FWlib\inc\stm32f10x_can.h
+.\obj\dbus.o: .\user\stm32f10x.h
+.\obj\dbus.o: .\FWlib\inc\stm32f10x_flash.h
+.\obj\dbus.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\dbus.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\dbus.o: .\FWlib\inc\stm32f10x_usart.h

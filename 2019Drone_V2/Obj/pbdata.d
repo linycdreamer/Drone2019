@@ -1,0 +1,16 @@
+.\obj\pbdata.o: user\pbdata.c
+.\obj\pbdata.o: user\pbdata.h
+.\obj\pbdata.o: user\stm32f10x.h
+.\obj\pbdata.o: user\core_cm3.h
+.\obj\pbdata.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\pbdata.o: user\system_stm32f10x.h
+.\obj\pbdata.o: user\stm32f10x_conf.h
+.\obj\pbdata.o: .\FWlib\inc\stm32f10x_can.h
+.\obj\pbdata.o: .\user\stm32f10x.h
+.\obj\pbdata.o: .\FWlib\inc\stm32f10x_flash.h
+.\obj\pbdata.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\pbdata.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\pbdata.o: .\FWlib\inc\stm32f10x_usart.h
+.\obj\pbdata.o: .\FWlib\inc\misc.h
+.\obj\pbdata.o: user\stm32f10x_it.h
+.\obj\pbdata.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

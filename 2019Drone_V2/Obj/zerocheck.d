@@ -1,0 +1,13 @@
+.\obj\zerocheck.o: algorithm\ZeroCheck.c
+.\obj\zerocheck.o: algorithm\ZeroCheck.h
+.\obj\zerocheck.o: .\user\stm32f10x.h
+.\obj\zerocheck.o: .\user\core_cm3.h
+.\obj\zerocheck.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\zerocheck.o: .\user\system_stm32f10x.h
+.\obj\zerocheck.o: .\user\stm32f10x_conf.h
+.\obj\zerocheck.o: .\FWlib\inc\stm32f10x_can.h
+.\obj\zerocheck.o: .\user\stm32f10x.h
+.\obj\zerocheck.o: .\FWlib\inc\stm32f10x_flash.h
+.\obj\zerocheck.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\zerocheck.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\zerocheck.o: .\FWlib\inc\stm32f10x_usart.h
