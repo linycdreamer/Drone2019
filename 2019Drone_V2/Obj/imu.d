@@ -1,0 +1,16 @@
+.\obj\imu.o: device\IMU.c
+.\obj\imu.o: device\IMU.h
+.\obj\imu.o: .\user\stm32f10x.h
+.\obj\imu.o: .\user\core_cm3.h
+.\obj\imu.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\imu.o: .\user\system_stm32f10x.h
+.\obj\imu.o: .\user\stm32f10x_conf.h
+.\obj\imu.o: .\FWlib\inc\stm32f10x_can.h
+.\obj\imu.o: .\user\stm32f10x.h
+.\obj\imu.o: .\FWlib\inc\stm32f10x_flash.h
+.\obj\imu.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\imu.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\imu.o: .\FWlib\inc\stm32f10x_usart.h
+.\obj\imu.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\imu.o: .\Hardware\drv_can.h
+.\obj\imu.o: .\FWlib\inc\misc.h

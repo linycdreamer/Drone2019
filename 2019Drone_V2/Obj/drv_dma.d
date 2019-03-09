@@ -1,0 +1,15 @@
+.\obj\drv_dma.o: Hardware\drv_dma.c
+.\obj\drv_dma.o: Hardware\drv_dma.h
+.\obj\drv_dma.o: .\user\stm32f10x.h
+.\obj\drv_dma.o: .\user\core_cm3.h
+.\obj\drv_dma.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\drv_dma.o: .\user\system_stm32f10x.h
+.\obj\drv_dma.o: .\user\stm32f10x_conf.h
+.\obj\drv_dma.o: .\FWlib\inc\stm32f10x_can.h
+.\obj\drv_dma.o: .\user\stm32f10x.h
+.\obj\drv_dma.o: .\FWlib\inc\stm32f10x_flash.h
+.\obj\drv_dma.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\drv_dma.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\drv_dma.o: .\FWlib\inc\stm32f10x_usart.h
+.\obj\drv_dma.o: .\FWlib\inc\stm32f10x_dma.h
+.\obj\drv_dma.o: .\FWlib\inc\misc.h

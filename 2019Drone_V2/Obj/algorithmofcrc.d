@@ -1,0 +1,13 @@
+.\obj\algorithmofcrc.o: algorithm\algorithmOfCRC.c
+.\obj\algorithmofcrc.o: algorithm\algorithmOfCRC.h
+.\obj\algorithmofcrc.o: .\user\stm32f10x.h
+.\obj\algorithmofcrc.o: .\user\core_cm3.h
+.\obj\algorithmofcrc.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\algorithmofcrc.o: .\user\system_stm32f10x.h
+.\obj\algorithmofcrc.o: .\user\stm32f10x_conf.h
+.\obj\algorithmofcrc.o: .\FWlib\inc\stm32f10x_can.h
+.\obj\algorithmofcrc.o: .\user\stm32f10x.h
+.\obj\algorithmofcrc.o: .\FWlib\inc\stm32f10x_flash.h
+.\obj\algorithmofcrc.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\algorithmofcrc.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\algorithmofcrc.o: .\FWlib\inc\stm32f10x_usart.h

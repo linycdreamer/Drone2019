@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\FWlib\inc -I.\user -I.\user\usart -I.\user\CAN -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\ST\STM32F10x" -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -o ".\Obj\can_analyzer.o" --omf_browse ".\Obj\can_analyzer.crf" --depend ".\Obj\can_analyzer.d" "user\CAN\CAN_Analyzer.c"
